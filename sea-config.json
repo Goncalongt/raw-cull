@@ -1,0 +1,5 @@
+{
+  "main": "dist/bundle.js",
+  "output": "RAW Cull.exe",
+  "disableExperimentalSEAWarning": true
+}
